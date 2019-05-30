@@ -31,7 +31,6 @@ border: 1px solid black;
 border-radius: 5px;
 background-color: #0f919d;
 color: white;
-
 `
 
 class Home extends React.Component {
